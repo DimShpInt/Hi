@@ -3,3 +3,4 @@ error jjjj
 другая сртрока
 и ещё одна
 hello git
+git rebase
