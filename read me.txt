@@ -1,1 +1,6 @@
 тут строка
+hello git
+
+cherry pick
+
+prive chuvak

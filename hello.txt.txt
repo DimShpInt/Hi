@@ -4,3 +4,4 @@ error jjjj
 и ещё одна
 hello git
 git rebase
+hello git cherry-pick
